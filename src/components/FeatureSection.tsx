@@ -190,8 +190,6 @@ export default function FeatureSection() {
                   {/* Tech specs floating */}
                   <div className="absolute -top-10 -right-10 bg-dark-lighter px-3 py-1 rounded-lg text-xs border border-primary/30">40 dB reduction</div>
                   <div className="absolute -bottom-10 -left-10 bg-dark-lighter px-3 py-1 rounded-lg text-xs border border-primary/30">20Hz-40kHz</div>
-                  <div className="absolute top-1/4 -left-16 bg-dark-lighter px-3 py-1 rounded-lg text-xs border border-secondary/30">Adaptive AI</div>
-                  <div className="absolute bottom-1/4 -right-16 bg-dark-lighter px-3 py-1 rounded-lg text-xs border border-secondary/30">VoltCore™</div>
                 </div>
               </div>
             </div>
