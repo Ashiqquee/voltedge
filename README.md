@@ -40,7 +40,7 @@ voltedge/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/voltedge.git
+git clone https://github.com/Ashiqquee/voltedge.git
 cd voltedge
 ```
 
