@@ -4,7 +4,6 @@ import FeatureSection from '@/components/FeatureSection';
 import SpecsSection from '@/components/SpecsSection';
 import PreOrderSection from '@/components/PreOrderSection';
 import Footer from '@/components/Footer';
-import PlaceholderNotice from '@/components/PlaceholderNotice';
 
 export default function Home() {
   return (
@@ -15,7 +14,6 @@ export default function Home() {
       <SpecsSection />
       <PreOrderSection />
       <Footer />
-      <PlaceholderNotice />
     </main>
   );
 }

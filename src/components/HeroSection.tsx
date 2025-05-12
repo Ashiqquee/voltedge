@@ -138,7 +138,6 @@ export default function HeroSection() {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.6 }}
               >
-                <p className="text-xs">Active Noise Cancellation</p>
               </motion.div>
               
               <motion.div 
@@ -147,7 +146,6 @@ export default function HeroSection() {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.9 }}
               >
-                <p className="text-xs">Hi-Res Audio Certified</p>
               </motion.div>
             </motion.div>
           </div>
